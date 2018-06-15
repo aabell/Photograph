@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC 131
+#  Project p4: Project 4: Loopy photographs
+
+courseName=CMSC 131
+semester=201601
+projectNumber=p4
+courseKey=952f030476ef36f7
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/spring2016
+submitURL=https://submit.cs.umd.edu:443/spring2016/eclipse/SubmitProjectViaEclipse
